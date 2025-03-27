@@ -1,0 +1,71 @@
+plugins {
+  id 'java'
+  id 'application'
+  id 'org.javamodularity.moduleplugin' version '1.8.12'
+  id 'org.openjfx.javafxplugin' version '0.0.13'
+  id 'org.beryx.jlink' version '2.25.0'
+}
+
+group 'org.example'
+version '1.0-SNAPSHOT'
+
+repositories {
+  mavenCentral()
+}
+
+ext {
+  junitVersion = '5.10.2'
+}
+
+sourceCompatibility = '17'
+targetCompatibility = '17'
+
+tasks.withType(JavaCompile) {
+  options.encoding = 'UTF-8'
+}
+
+application {
+//  mainModule = 'org.example.lab5'
+  mainClass = 'MainFXSpring'
+//  mainClass = 'org.example.lab5.HelloApplication'
+}
+
+javafx {
+  version = '17.0.6'
+  modules = ['javafx.controls', 'javafx.fxml']
+}
+
+dependencies {
+
+  testImplementation("org.junit.jupiter:junit-jupiter-api:${junitVersion}")
+  testRuntimeOnly("org.junit.jupiter:junit-jupiter-engine:${junitVersion}")
+
+  // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-core
+  implementation("org.apache.logging.log4j:log4j-core:2.24.3")
+
+  // https://mvnrepository.com/artifact/org.apache.logging.log4j/log4j-api
+  implementation("org.apache.logging.log4j:log4j-api:2.24.3")
+
+  // https://mvnrepository.com/artifact/org.xerial/sqlite-jdbc
+  runtimeOnly group: 'org.xerial', name: 'sqlite-jdbc', version: '3.49.1.0'
+
+  // https://mvnrepository.com/artifact/org.springframework/spring-context
+  implementation("org.springframework:spring-context:6.2.3")
+
+
+}
+
+test {
+useJUnitPlatform()}
+
+jlink {
+  imageZip = project.file("${buildDir}/distributions/app-${javafx.platform.classifier}.zip")
+  options = ['--strip-debug', '--compress', '2', '--no-header-files', '--no-man-pages']
+  launcher {
+    name = 'app'
+  }
+}
+
+jlinkZip {
+  group = 'distribution'
+}
