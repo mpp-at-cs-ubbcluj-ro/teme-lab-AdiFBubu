@@ -1,0 +1,274 @@
+13 Mar 2025 14:30:17,001 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:30:17,022 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:30:17,024 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:30:17,024 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:30:17,024 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:30:17,025 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:30:17,026 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:30:17,026 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:30:17,030 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:31:08,736 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:31:08,753 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:31:08,753 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:31:08,753 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:31:08,753 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:31:08,753 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:31:08,753 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:31:08,753 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:31:08,753 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:32:11,629 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:32:11,645 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:32:11,645 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:32:11,645 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:32:11,645 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:32:11,645 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:32:11,645 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:32:11,645 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:32:11,645 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:33:01,584 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:33:01,606 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:33:01,606 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:33:01,606 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:33:01,606 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:33:01,606 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:33:01,606 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:33:01,606 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:33:01,606 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:35:05,638 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:35:05,663 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:35:05,663 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:35:05,664 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:35:05,664 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:35:05,664 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:35:05,665 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:35:05,668 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:35:05,669 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:35:17,540 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:35:17,556 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:35:17,556 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:35:17,556 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:35:17,556 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:35:17,556 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:35:17,556 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:35:17,556 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:35:17,556 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:35:45,837 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:35:45,861 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:35:45,861 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:35:45,861 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:35:45,861 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:35:45,861 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:35:45,861 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:35:45,861 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:35:45,861 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:37:45,822 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:37:45,846 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:37:45,847 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:37:45,847 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:37:45,847 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:37:45,847 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:37:45,848 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:37:45,848 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:37:45,848 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:38:19,001 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:38:19,017 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:38:19,017 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:38:19,017 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:38:19,017 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:38:19,017 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:38:19,017 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:38:19,017 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:38:19,017 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:39:11,544 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:39:11,544 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:39:11,544 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:39:11,544 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:39:11,544 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:39:11,544 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:39:11,544 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:39:11,544 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:39:11,544 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:40:13,477 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {} 
+13 Mar 2025 14:40:13,493 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:40:13,493 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:40:13,493 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:40:13,493 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... null
+13 Mar 2025 14:40:13,493 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:40:13,493 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:40:13,493 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: The url cannot be null
+13 Mar 2025 14:40:13,493 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:41:49,332 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"} 
+13 Mar 2025 14:41:49,348 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:41:49,348 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:41:49,348 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:41:49,348 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"
+13 Mar 2025 14:41:49,348 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:41:49,348 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:41:49,348 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"
+13 Mar 2025 14:41:49,348 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:42:01,195 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"} 
+13 Mar 2025 14:42:11,256 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"} 
+13 Mar 2025 14:42:11,272 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:42:11,272 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:42:11,272 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:42:11,272 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"
+13 Mar 2025 14:42:11,272 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:42:11,272 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:42:11,272 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:infoanul 2sem 2MPPdatabasescars.db"
+13 Mar 2025 14:42:11,272 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:44:02,781 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:\info\anul 2\sem 2\MPP\databases\cars.db"} 
+13 Mar 2025 14:44:02,797 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:44:02,797 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:44:02,797 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:44:02,797 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:\info\anul 2\sem 2\MPP\databases\cars.db"
+13 Mar 2025 14:44:02,797 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:44:02,797 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:44:02,797 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:\info\anul 2\sem 2\MPP\databases\cars.db"
+13 Mar 2025 14:44:02,797 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:44:26,731 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db"} 
+13 Mar 2025 14:44:26,756 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:44:26,756 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:44:26,756 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:44:26,756 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db"
+13 Mar 2025 14:44:26,756 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:44:26,756 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:44:26,756 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db"
+13 Mar 2025 14:44:26,756 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:45:57,937 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url="jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db"} 
+13 Mar 2025 14:45:57,952 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:45:57,952 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:45:57,952 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:45:57,952 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... "jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db"
+13 Mar 2025 14:45:57,952 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:45:57,952 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:45:57,952 ERROR org.example.JdbcUtils 41 getNewConnection - java.sql.SQLException: No suitable driver found for "jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db"
+13 Mar 2025 14:45:57,952 TRACE org.example.JdbcUtils 57 getConnection - Exit
+13 Mar 2025 14:46:43,608 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 14:46:43,630 TRACE org.example.CarsDBRepository 83 add - Enter saving task Id=0 Tesla Model S 2019
+13 Mar 2025 14:46:43,630 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:46:43,630 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:46:43,630 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 14:46:43,630 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:46:43,630 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:46:44,870 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:46:44,887 TRACE org.example.CarsDBRepository 90 add - Saved 1 instances
+13 Mar 2025 14:46:44,887 TRACE org.example.CarsDBRepository 95 add - Exit
+13 Mar 2025 14:47:26,719 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 14:47:26,723 TRACE org.example.CarsDBRepository 120 findAll - Enter
+13 Mar 2025 14:47:26,723 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:47:26,723 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:47:26,723 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 14:47:26,723 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:47:26,724 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:47:26,921 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@55cb6996)
+13 Mar 2025 14:47:26,930 TRACE org.example.CarsDBRepository 139 findAll - Exit
+13 Mar 2025 14:47:26,935 TRACE org.example.CarsDBRepository 30 findByManufacturer - Enter findByManufacturer tasks by Tesla
+13 Mar 2025 14:47:26,936 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:47:26,936 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@55cb6996)
+13 Mar 2025 14:47:26,936 TRACE org.example.CarsDBRepository 49 findByManufacturer - Exit findByManufacturer tasks by Tesla
+13 Mar 2025 14:49:08,746 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 14:49:08,763 TRACE org.example.CarsDBRepository 101 update - Enter updating task Id=0 Tesla Model P 2019
+13 Mar 2025 14:49:08,763 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:49:08,763 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:49:08,763 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 14:49:08,763 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:49:08,765 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:49:08,957 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:49:08,966 TRACE org.example.CarsDBRepository 109 update - Updated 1 instances
+13 Mar 2025 14:49:08,967 TRACE org.example.CarsDBRepository 114 update - Exit
+13 Mar 2025 14:49:08,967 TRACE org.example.CarsDBRepository 120 findAll - Enter
+13 Mar 2025 14:49:08,967 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:49:08,967 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:49:08,970 TRACE org.example.CarsDBRepository 139 findAll - Exit
+13 Mar 2025 14:49:08,970 TRACE org.example.CarsDBRepository 30 findByManufacturer - Enter findByManufacturer tasks by Tesla
+13 Mar 2025 14:49:08,970 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:49:08,971 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:49:08,971 TRACE org.example.CarsDBRepository 49 findByManufacturer - Exit findByManufacturer tasks by Tesla
+13 Mar 2025 14:51:31,412 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 14:51:31,427 TRACE org.example.CarsDBRepository 101 update - Enter updating task Id=0 Tesla Model P 2019
+13 Mar 2025 14:51:31,428 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:31,428 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:51:31,428 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 14:51:31,428 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:51:31,428 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:51:31,634 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:31,643 TRACE org.example.CarsDBRepository 109 update - Updated 1 instances
+13 Mar 2025 14:51:31,643 TRACE org.example.CarsDBRepository 114 update - Exit
+13 Mar 2025 14:51:31,644 TRACE org.example.CarsDBRepository 120 findAll - Enter
+13 Mar 2025 14:51:31,644 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:31,644 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:31,647 TRACE org.example.CarsDBRepository 139 findAll - Exit
+13 Mar 2025 14:51:31,648 TRACE org.example.CarsDBRepository 30 findByManufacturer - Enter findByManufacturer tasks by Tesla
+13 Mar 2025 14:51:31,648 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:31,648 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:31,648 TRACE org.example.CarsDBRepository 49 findByManufacturer - Exit findByManufacturer tasks by Tesla
+13 Mar 2025 14:51:31,650 TRACE org.example.CarsDBRepository 56 findBetweenYears - Enter findBetween years tasks from 2019 to 2022
+13 Mar 2025 14:51:31,650 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:31,650 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:31,651 TRACE org.example.CarsDBRepository 76 findBetweenYears - Exit with([Id=1 Dacia Sandero 2019, Id=2 Skoda Octavia 2020, Id=3 Tesla Model P 2019])
+13 Mar 2025 14:51:44,110 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 14:51:44,125 TRACE org.example.CarsDBRepository 101 update - Enter updating task Id=0 Tesla Model P 2019
+13 Mar 2025 14:51:44,125 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:44,125 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 14:51:44,126 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 14:51:44,126 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 14:51:44,126 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 14:51:44,330 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:44,337 TRACE org.example.CarsDBRepository 109 update - Updated 1 instances
+13 Mar 2025 14:51:44,338 TRACE org.example.CarsDBRepository 114 update - Exit
+13 Mar 2025 14:51:44,338 TRACE org.example.CarsDBRepository 120 findAll - Enter
+13 Mar 2025 14:51:44,338 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:44,338 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:44,342 TRACE org.example.CarsDBRepository 139 findAll - Exit
+13 Mar 2025 14:51:44,343 TRACE org.example.CarsDBRepository 30 findByManufacturer - Enter findByManufacturer tasks by Tesla
+13 Mar 2025 14:51:44,343 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:44,343 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:44,343 TRACE org.example.CarsDBRepository 49 findByManufacturer - Exit findByManufacturer tasks by Tesla
+13 Mar 2025 14:51:44,346 TRACE org.example.CarsDBRepository 56 findBetweenYears - Enter findBetween years tasks from 2020 to 2022
+13 Mar 2025 14:51:44,346 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 14:51:44,346 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 14:51:44,347 TRACE org.example.CarsDBRepository 76 findBetweenYears - Exit with([Id=2 Skoda Octavia 2020])
+13 Mar 2025 15:19:50,968 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 15:19:50,984 TRACE org.example.CarsDBRepository 101 update - Enter updating task Id=0 Tesla Model P 2019
+13 Mar 2025 15:19:50,984 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:19:50,985 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 15:19:50,985 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 15:19:50,985 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 15:19:50,985 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 15:19:51,230 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 15:19:51,237 TRACE org.example.CarsDBRepository 109 update - Updated 1 instances
+13 Mar 2025 15:19:51,238 TRACE org.example.CarsDBRepository 114 update - Exit
+13 Mar 2025 15:19:51,238 TRACE org.example.CarsDBRepository 120 findAll - Enter
+13 Mar 2025 15:19:51,238 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:19:51,238 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 15:19:51,242 TRACE org.example.CarsDBRepository 139 findAll - Exit
+13 Mar 2025 15:19:51,242 TRACE org.example.CarsDBRepository 30 findByManufacturer - Enter findByManufacturer tasks by Tesla
+13 Mar 2025 15:19:51,242 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:19:51,242 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 15:19:51,243 TRACE org.example.CarsDBRepository 49 findByManufacturer - Exit findByManufacturer tasks by Tesla
+13 Mar 2025 15:19:51,246 TRACE org.example.CarsDBRepository 56 findBetweenYears - Enter findBetween years tasks from 2020 to 2022
+13 Mar 2025 15:19:51,246 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:19:51,247 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@68c9d179)
+13 Mar 2025 15:19:51,248 TRACE org.example.CarsDBRepository 76 findBetweenYears - Exit with([Id=2 Skoda Octavia 2020])
+13 Mar 2025 15:20:54,576 INFO  org.example.CarsDBRepository 23 <init> - Initializing CarsDBRepository with properties: {jdbc.url=jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db} 
+13 Mar 2025 15:20:54,586 TRACE org.example.CarsDBRepository 101 update - Enter updating task Id=0 Tesla Model P 2019
+13 Mar 2025 15:20:54,586 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:20:54,587 TRACE org.example.JdbcUtils 25 getNewConnection - Enter
+13 Mar 2025 15:20:54,587 INFO  org.example.JdbcUtils 30 getNewConnection - trying to connect to database ... jdbc:sqlite:C:/info/anul 2/sem 2/MPP/databases/cars.db
+13 Mar 2025 15:20:54,588 INFO  org.example.JdbcUtils 31 getNewConnection - user: null
+13 Mar 2025 15:20:54,589 INFO  org.example.JdbcUtils 32 getNewConnection - pass: null
+13 Mar 2025 15:20:54,783 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7905a0b8)
+13 Mar 2025 15:20:54,789 TRACE org.example.CarsDBRepository 109 update - Updated 1 instances
+13 Mar 2025 15:20:54,789 TRACE org.example.CarsDBRepository 114 update - Exit
+13 Mar 2025 15:20:54,790 TRACE org.example.CarsDBRepository 120 findAll - Enter
+13 Mar 2025 15:20:54,790 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:20:54,790 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7905a0b8)
+13 Mar 2025 15:20:54,794 TRACE org.example.CarsDBRepository 139 findAll - Exit
+13 Mar 2025 15:20:54,794 TRACE org.example.CarsDBRepository 30 findByManufacturer - Enter findByManufacturer tasks by Tesla
+13 Mar 2025 15:20:54,795 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:20:54,796 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7905a0b8)
+13 Mar 2025 15:20:54,797 TRACE org.example.CarsDBRepository 49 findByManufacturer - Exit findByManufacturer tasks by Tesla
+13 Mar 2025 15:20:54,801 TRACE org.example.CarsDBRepository 56 findBetweenYears - Enter findBetween years tasks from 2020 to 2022
+13 Mar 2025 15:20:54,801 TRACE org.example.JdbcUtils 48 getConnection - Enter
+13 Mar 2025 15:20:54,801 TRACE org.example.JdbcUtils 57 getConnection - Exit with(org.sqlite.jdbc4.JDBC4Connection@7905a0b8)
+13 Mar 2025 15:20:54,803 TRACE org.example.CarsDBRepository 76 findBetweenYears - Exit with([Id=2 Skoda Octavia 2020])
